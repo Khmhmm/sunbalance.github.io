@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "599251c0873a21ec6957e8efb5976a7d",
-"index.html": "e696b7df7ac224cb417b5e837aaf04c4",
-"/": "e696b7df7ac224cb417b5e837aaf04c4",
+  "main.dart.js": "36969e86e2ca5cf7e7112cfcf7c208c9",
+"index.html": "f2156be607852e6e4994de0ece2b8d74",
+"/": "f2156be607852e6e4994de0ece2b8d74",
 "version.json": "fdb7f5bc2269dfd26307cd61de5c217b",
 "manifest.json": "8c93406610504f77032ac6d599bfc463",
 "assets/NOTICES": "81715b095dbc3e8d4d4d2b90a3ca836d",
@@ -38,7 +38,7 @@ const RESOURCES = {
 "assets/assets/images/storytell/butcher.png": "ccb8722a4c8b529000aee7930b05a4be",
 "assets/assets/images/storytell/saint-anna.png": "a6d697ab478d54787fe304243c472e1b",
 "assets/assets/images/storytell/nightfield.png": "37e8b4f6d9f2b28b1836e3785ce8a8a3",
-"assets/assets/images/storytell/knight.png": "54ec6b98b906381e0742990253c95841",
+"assets/assets/images/storytell/knight.png": "45e610c56aa5ffa127afa75ca174fcc4",
 "assets/assets/images_v2/character/bag.png": "1c60c90ff6b664212551841c303bb970",
 "assets/assets/images_v2/character/swords.png": "f8f7ac0124abcb72e23a4e0b69b201d1",
 "assets/assets/images_v2/character/guy.png": "757a44c00c68d99810d02639bc5d47b0",
